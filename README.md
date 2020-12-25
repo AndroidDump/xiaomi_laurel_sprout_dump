@@ -1,0 +1,13 @@
+# qssi-user 10 QKQ1.190910.002 V11.0.23.0.QFQMIXM release-keys
+- manufacturer: 
+- platform: trinket
+- codename: laurel_sprout
+- flavor: qssi-user
+- release: 10
+- id: QKQ1.190910.002
+- incremental: V11.0.23.0.QFQMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/laurel_sprout/laurel_sprout:10/QKQ1.190910.002/V11.0.23.0.QFQMIXM:user/release-keys
+- brand: Xiaomi
+- branch: qssi-user-10-QKQ1.190910.002-V11.0.23.0.QFQMIXM-release-keys
+- repo: xiaomi_laurel_sprout_dump
